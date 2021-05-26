@@ -66,7 +66,7 @@ If you are not familiar with 'Instagram kitchen', let me disclose some terminolo
 The project includes the following Notebooks with detailed analysis and code:
 
 - [Advertisement in Russian-speaking Instagram - PART I.ipynb](https://github.com/ElinaAizenberg/Advertisement-in-Russian-speaking-Instagram---project/blob/main/_Advertisement%20in%20Russian-speaking%20Instagram%20-%20PART%20I.ipynb)
-- [Advertisement in Russian-speaking Instagram - PART II.ipynb]()
+- [Advertisement in Russian-speaking Instagram - PART II.ipynb](https://github.com/ElinaAizenberg/Advertisement-in-Russian-speaking-Instagram---project/blob/main/Advertisement%20in%20Russian-speaking%20Instagram%20-%20PART%20II.ipynb)
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/instagram-project).
 
