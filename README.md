@@ -18,7 +18,6 @@ I suppose that the breakthrough in the bloggers' world was done by [blogger and 
 
 Although this website is very useful if you want to check reviews on bloggers' ads and search for ad placement according to your budget, in general, there is no analytical tool to somehow speed up the process and evaluate future results of advertisement.
 
-​
 
 **In this project I intend to**:
 
@@ -29,7 +28,6 @@ Although this website is very useful if you want to check reviews on bloggers' a
 
 Along with theoretical analysis I will show how I would use it for my current [blog](https://www.instagram.com/data_newbie/) to choose ad placement in order to gain more subscribers.
 
-​
 
 **Pre-conditions and goal**:
 
