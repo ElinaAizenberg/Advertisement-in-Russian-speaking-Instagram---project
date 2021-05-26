@@ -1,6 +1,6 @@
 Keywords: ML, regression, EDA, visualization, Bokeh
 
-# Advertisement-in-Russian-speaking-Instagram---project
+# Advertisement in Russian-speaking Instagram
 
 <table><tr><td><img src='pictures/-SKSOCnoGVg.jpg'></td><td><img src='pictures/RrfPS6eEIwQ.jpg'></td></tr></table>
 
@@ -14,7 +14,7 @@ Even though blogging is only my hobby now, I'm interested in news and updates ab
 
 I suppose that the breakthrough in the bloggers' world was done by [blogger and entrepreneur Alexandra Mitroshina](https://www.instagram.com/alexandramitroshina/?hl=ru) who created [Easyprbot website](https://easyprbot.com/#/reviews). It is basically the database with feedbacks on personal advertisements in Instagram. Any blogger who ordered ad placement in another blog can upload review with information about price, statistics, income etc. Currently, there are over 50 000 reviews uploaded on the website.
 
-<img src="pictures/easyprbot.png" width="800"> 
+<img src="pictures/Easyprobot.png" width="800"> 
 
 Although this website is very useful if you want to check reviews on bloggers' ads and search for ad placement according to your budget, in general, there is no analytical tool to somehow speed up the process and evaluate future results of advertisement.
 
@@ -41,13 +41,15 @@ Along with theoretical analysis I will show how I would use it for my current [b
 
 - goal: 1500 - 2000 new subscribers.
 
+​
 
-# DATA
+# Data
 
 Dataset with reviews from [Easyprbot website](https://easyprbot.com/#/reviews) was gathered on the 5th of March, 2021 using services of company [DataParse Lab](https://dataparselab.com/ru). The data from website was gathered exclusively for this training project and will not be used for any commercial reasons.
 
+​
 
-# TERMINOLOGY
+# Terminology
 
 If you are not familiar with 'Instagram kitchen', let me disclose some terminology.
 
@@ -59,7 +61,7 @@ If you are not familiar with 'Instagram kitchen', let me disclose some terminolo
 
 **Mutual PR**  -  activity when 2 bloggers advertise each other for free to attract subscribers of each other.
 
-
+​
 
 # Notebook & Website
 
@@ -69,6 +71,8 @@ The project includes the following Notebooks with detailed analysis and code:
 - [Advertisement in Russian-speaking Instagram - PART II.ipynb]()
 
 If you are interested in more visually pleasant presentation of this project, please, visit my [website](https://www.elina-aizenberg-cv.com/instagram-project).
+
+​
 
 # Conclusion
 
