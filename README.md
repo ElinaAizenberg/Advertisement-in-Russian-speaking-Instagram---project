@@ -61,7 +61,7 @@ If you are not familiar with 'Instagram kitchen', let me disclose some terminolo
 
 ​
 
-# Notebook & Website
+# Notebooks & Website
 
 The project includes the following Notebooks with detailed analysis and code:
 
