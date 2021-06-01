@@ -85,7 +85,7 @@ If you are interested in more visually pleasant presentation of this project, pl
 
 # Conclusion
 
-So, this project was divided into 2 parts according to different goals: **to analyze Russian market of personal advertisement in Instagram to choose ad placement and to build a model to predict results of potential advertisement**.
+So, this project was divided into 2 parts according to different goals: **to analyse Russian market of personal advertisement in Instagram to choose ad placement and to build a model to predict results of potential advertisement**.
 
 
 In the first part I performed exploratary data analysis and found out some insights that were inline or contradicted my personal experience of blogging.
